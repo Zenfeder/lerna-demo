@@ -1,1 +1,1 @@
-console.log('我是 package-1')
+console.log('我是 lerna-demo-package-1')

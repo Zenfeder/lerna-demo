@@ -1,1 +1,1 @@
-console.log('package-2 依赖 package-1')
+console.log('lerna-demo-package-2 依赖 lerna-demo-package-1')

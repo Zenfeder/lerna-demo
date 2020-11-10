@@ -1,5 +1,5 @@
 {
-  "name": "package-2",
+  "name": "lerna-demo-package-2",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
