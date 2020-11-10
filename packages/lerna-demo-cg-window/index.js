@@ -1,0 +1,1 @@
+console.log('我是 lerna-demo-cg-window')

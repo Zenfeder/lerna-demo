@@ -1,1 +1,0 @@
-console.log('lerna-demo-package-2 依赖 lerna-demo-package-1')

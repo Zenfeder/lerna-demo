@@ -1,5 +1,5 @@
 {
-  "name": "lerna-demo-package-1",
+  "name": "lerna-demo-cg-window",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "vue": "^2.6.12"
   },
-  "gitHead": "f064e566437a73d4981a645727fbfd6ef3a25291"
+  "gitHead": "c021b7117696daf45ad85ec1040db5ac1195d929"
 }

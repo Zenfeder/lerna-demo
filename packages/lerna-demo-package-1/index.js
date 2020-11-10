@@ -1,1 +1,0 @@
-console.log('我是 lerna-demo-package-1')
